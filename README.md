@@ -44,4 +44,4 @@ Unlike traditional smart meters that only measure endpoint consumption, this sys
 
 1. **Clone the repository:**
    ```bash
-   git clone [[https://github.com/YourUsername/Smart-Energy-Meter.git](https://github.com/Yashmk5523/smart-energy-meter.git)](https://github.com/YourUsername/Smart-Energy-Meter.git)
+   git clone https://github.com/YourUsername/Smart-Energy-Meter.git](https://github.com/Yashmk5523/smart-energy-meter.git
